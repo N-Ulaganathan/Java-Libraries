@@ -2,4 +2,4 @@
 ------------------------------------
  MultiMap.java
  --------------
-    Allows to store more than one values for a key.
+ Allows you to store more than one values for a key.
